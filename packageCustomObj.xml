@@ -3,6 +3,7 @@
  
     <types>
         <members>*</members>
+
         <name>CustomField</name>
     </types>
   
@@ -10,8 +11,10 @@
         <!-- <members>*</members> -->
        
         <members>Student1__c</members>
+
         <name>CustomObject</name>
     </types>
+    
     <types>
         <members>*</members>
         <name>CustomObjectTranslation</name>
@@ -19,6 +22,7 @@
   
     <types>
         <members>*</members>
+        
         <name>CustomTab</name>
     </types>
    
