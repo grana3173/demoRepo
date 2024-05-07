@@ -177,6 +177,15 @@
         <label>New Compact Layout</label>
     </compactLayouts>
     <fields>
+        <fullName>NPI_Number__c</fullName>
+        <displayFormat>A-{000000}</displayFormat>
+        <externalId>false</externalId>
+        <label>NPI Number</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>test_to_git__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
